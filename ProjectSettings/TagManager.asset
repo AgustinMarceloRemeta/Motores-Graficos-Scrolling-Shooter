@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Destroy
   - Limit
+  - Enemy
+  - Boss
+  - LifeText
+  - Power up
   layers:
   - Default
   - TransparentFX
